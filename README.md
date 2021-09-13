@@ -1,2 +1,6 @@
+# Must change the "#" in your PLAYERS table in the database to "id" like this !!
+
+![image](https://user-images.githubusercontent.com/57848836/124848636-e06d9880-df62-11eb-88aa-c0e211b039e3.png)
+
 # mdt
-This is a pull from https://github.com/GhzGarage/mdt I made some minors changes, the ghmattimysql has been converted to oxmysql v 1.2,. I added it so when searching a person you will weapons licenses as well, also when putting in reports it will show a recommended sentence time.
+A police Mobile Data Terminal system designed for use on the FiveM platform.
