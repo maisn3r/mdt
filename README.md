@@ -5,4 +5,4 @@
 # mdt
 A police Mobile Data Terminal system designed for use on the FiveM platform.
 
-This is a pull from Kakarots MDT. I made some minor changes including converting ghmattimysql to oxmysql v 1.2. I also made it so when searching a persons name in the MDT you will see weapons licenses as well as when you are typing out reports it will show a recommended sentence time. 
+This is a pull from Kakarots MDT. I made some minor changes including converting ghmattimysql to oxmysql. I also made it so when searching a persons name in the MDT you will see their weapons licenses as well as when you are typing out reports it will show a recommended sentence time. 
